@@ -2,7 +2,9 @@ package com.practice.multimodule.b.api.impl;
 
 import com.practice.multimodule.b.api.BApi;
 import com.practice.multimodule.b.service.BService;
+import org.springframework.stereotype.Component;
 
+@Component
 public class BApiImpl implements BApi {
 
     private final BService bService;
