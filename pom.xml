@@ -17,7 +17,7 @@
         <module>endpoint</module>
         <module>sdk</module>
         <module>boot</module>
-        <module>service</module>
+        <module>core</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
