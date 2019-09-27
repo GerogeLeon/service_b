@@ -1,6 +1,6 @@
 package com.practice.multimodule.b.api;
 
-public interface BService {
+public interface BApi {
     String hello(String username);
 
 }
