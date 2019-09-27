@@ -1,12 +1,12 @@
-package com.practice.multimodule.service_b;
+package com.practice.multimodule.b;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServiceBApplication {
+public class BApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ServiceBApplication.class);
+        SpringApplication.run(BApplication.class);
     }
 }

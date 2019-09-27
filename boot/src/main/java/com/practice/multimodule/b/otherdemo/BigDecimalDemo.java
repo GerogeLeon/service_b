@@ -1,8 +1,8 @@
-package com.practice.multimodule.service_b;
+package com.practice.multimodule.b.otherdemo;
 
 import java.math.BigDecimal;
 
-public class BidDecimalDemo {
+public class BigDecimalDemo {
     public static void main(String[] args) {
         System.out.println(0.05 + 0.01);
         BigDecimal b1 = new BigDecimal("0.05");//注意构造BigDecimal类时候必须用String类型才能得到精确的值
