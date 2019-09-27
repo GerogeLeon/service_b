@@ -15,7 +15,7 @@
 
         <dependency>
             <groupId>com.practice.multimodule.service_b</groupId>
-            <artifactId>service</artifactId>
+            <artifactId>core</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>
 

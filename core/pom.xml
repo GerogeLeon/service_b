@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.practice.multimodule.service_b</groupId>
-    <artifactId>service</artifactId>
+    <artifactId>core</artifactId>
 
     <dependencies>
         <dependency>
